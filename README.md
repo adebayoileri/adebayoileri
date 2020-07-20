@@ -1,3 +1,3 @@
-### I'm Adebayo Ilerioluwa.
 
-<img width="100%" height="85%" src="https://media.giphy.com/media/xT5LMWSdjpYGbaWV4Q/giphy.gif" alt="all" />
+
+<marquee> I'm Adebayo Ilerioluwa. A software engineer based in Lagos, Nigeria </marquee>
